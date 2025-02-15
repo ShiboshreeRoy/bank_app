@@ -33,5 +33,5 @@ Welcome to the **Banking App**, a simple yet powerful banking application built 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/banking-app.git
-   cd banking-app
+   git clone https://github.com/ShiboshreeRoy/bank_app.git
+   cd bank-app
